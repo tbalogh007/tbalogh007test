@@ -1,4 +1,4 @@
-# Kevin Wilson's Website
+# Timea Balogh's Website
 
 This is a simple academic website template.
 
