@@ -3,11 +3,15 @@
 remote_theme: pages-themes/minimal@v0.2.0
 name: My Site
 
+title: [Timea's website]
+description: [A short description of your site's purpose]
+
 # Where things are
 source              : .
 destination         : ./_site
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
+plugins             : jekyll-remote-theme 
 layouts_dir         : _layouts
 data_dir            : _data
 includes_dir        : _includes
